@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for the studio for reviewing models, runs and results, as one repository of the SC-NeuroCore split. No studio application, session store, dashboard, moved SC-NeuroCore code or registered record format is released.",
+  "keywords": [
+    "neuromorphic studio",
+    "review sessions",
+    "evidence views",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "SC-NC Studio",
+  "upload_type": "software"
+}

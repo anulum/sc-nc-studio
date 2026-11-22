@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "SC-NC-STUDIO",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "b4b9383432165244b0dbc738c508da2e450e17f2da1c7938cd70f11b27fedbe0"
+  }
+}
