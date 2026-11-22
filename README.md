@@ -12,6 +12,8 @@ SC-NC-STUDIO — repository foundation
 
 SC-NC Studio is being built as the user-facing studio split out of SC-NeuroCore: the sessions in which people review models, runs, analyses and acceptance results, the dashboards and views that show them, and the mapping that turns studio evidence into the evidence manifest format. It is the last SC-NC repository in the split order and imports the others it shows. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed studio application, session store, dashboard or qualified record schema.
 
+SC-NC Studio is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - any code moved from SC-NeuroCore;
 - a registered runtime record schema;
